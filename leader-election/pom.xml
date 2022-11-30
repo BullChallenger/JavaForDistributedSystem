@@ -39,7 +39,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>distributed.systems/LeaderElection</mainClass>
+                            <mainClass>distributed.systems/Application</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

@@ -1,2 +1,7 @@
-distributed\systems\LeaderElection$1.class
-distributed\systems\LeaderElection.class
+distributed\systems\cluster\management\OnElectionCallback.class
+distributed\systems\cluster\management\ServiceRegistry.class
+distributed\systems\OnElectionAction.class
+distributed\systems\Application.class
+distributed\systems\cluster\management\LeaderElection$1.class
+distributed\systems\cluster\management\LeaderElection.class
+distributed\systems\Application$1.class
